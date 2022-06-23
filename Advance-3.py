@@ -155,7 +155,7 @@ plt.scatter(x, y, s=sizes)
 plt.show()
 
 
-# Making skale on the base of value that indicates the colors of graph
+# Making scale on the base of value that indicates the colors of graph
 
 import matplotlib.pyplot as plt
 import numpy as np
