@@ -45,3 +45,9 @@ fig3=px.line(df, x="week", y="sleep in hours", color="Coffee in ml")        # px
 fig3.show()
 
 
+
+
+
+
+
+
